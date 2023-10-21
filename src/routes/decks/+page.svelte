@@ -21,7 +21,7 @@
 				<div class="mt-4 sm:ml-16 sm:mt-0 sm:flex-none">
 					<button
 						type="button"
-						class="block rounded-md bg-indigo-600 px-3 py-2 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+						class="block rounded-md bg-rose-600 px-3 py-2 text-center text-sm font-semibold text-white shadow-sm hover:bg-rose-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rose-600"
 						>Add Deck</button
 					>
 				</div>
@@ -58,12 +58,12 @@
 										>Hiragana 12</td
 									>
 									<td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500">0</td>
-									<td class="whitespace-nowrap px-3 py-4 text-sm text-indigo-500">20</td>
+									<td class="whitespace-nowrap px-3 py-4 text-sm text-rose-500">20</td>
 									<td class="whitespace-nowrap px-3 py-4 text-sm text-red-500">5</td>
 									<td
 										class="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-0"
 									>
-										<a href="#" class="text-indigo-600 hover:text-indigo-900"
+										<a href="#" class="text-rose-600 hover:text-rose-900"
 											>Edit<span class="sr-only">, Lindsay Walton</span></a
 										>
 									</td>

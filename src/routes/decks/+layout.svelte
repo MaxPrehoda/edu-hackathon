@@ -67,7 +67,7 @@
 					<!-- Mobile menu button -->
 					<button
 						type="button"
-						class="relative -mx-2 inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
+						class="relative -mx-2 inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-rose-500"
 						aria-expanded="false"
 					>
 						<span class="absolute -inset-0.5" />
@@ -111,7 +111,7 @@
 				<div class="hidden lg:flex lg:items-center lg:justify-end xl:col-span-4">
 					<button
 						type="button"
-						class="relative ml-5 flex-shrink-0 rounded-full bg-white p-1 text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+						class="relative ml-5 flex-shrink-0 rounded-full bg-white p-1 text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2"
 					>
 						<span class="absolute -inset-1.5" />
 						<span class="sr-only">View notifications</span>
@@ -136,7 +136,7 @@
 						<div>
 							<button
 								type="button"
-								class="relative flex rounded-full bg-white focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+								class="relative flex rounded-full bg-white focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2"
 								id="user-menu-button"
 								aria-expanded="false"
 								aria-haspopup="true"
@@ -191,7 +191,7 @@
 
 					<a
 						href="#"
-						class="ml-6 inline-flex items-center rounded-md bg-indigo-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+						class="ml-6 inline-flex items-center rounded-md bg-rose-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-rose-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rose-600"
 						>Import File</a
 					>
 				</div>
@@ -233,7 +233,7 @@
 					</div>
 					<button
 						type="button"
-						class="relative ml-auto flex-shrink-0 rounded-full bg-white p-1 text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+						class="relative ml-auto flex-shrink-0 rounded-full bg-white p-1 text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2"
 					>
 						<span class="absolute -inset-1.5" />
 						<span class="sr-only">View notifications</span>

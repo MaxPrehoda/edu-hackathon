@@ -45,9 +45,9 @@
 		<div class="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
 			<div class="flex">
 				<div
-					class="relative flex items-center gap-x-4 rounded-full px-4 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20"
+					class="relative flex items-center gap-x-4 rounded-lg px-4 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20"
 				>
-					<span class="font-semibold text-indigo-600">Tyne is hiring</span>
+					<span class="font-semibold text-rose-600">Tyne is hiring</span>
 					<span class="h-4 w-px bg-gray-900/10" aria-hidden="true" />
 					<a href="#" class="flex items-center gap-x-1">
 						<span class="absolute inset-0" aria-hidden="true" />
@@ -71,14 +71,14 @@
 				Flashcards made simple.
 			</h1>
 			<p class="mt-6 text-lg leading-8 text-gray-600">
-				Esse id magna consectetur fugiat non dolor in ad laboris magna laborum ea consequat. Nisi
-				irure aliquip nisi adipisicing veniam voluptate id. In veniam incididunt ex veniam
-				adipisicing sit.
+				Master topics faster than ever with our intuitive study tools. Dive into a world where
+				learning is dynamic, engaging, and tailored to you. Say goodbye to the traditional grind and
+				embrace the future of education. Revolutionize the way you study and achieve more in less.
 			</p>
 			<div class="mt-10 flex items-center gap-x-6">
 				<a
 					href="/login"
-					class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+					class="rounded-md bg-rose-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-rose-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rose-600"
 					>Get started</a
 				>
 				<a href="/login" class="text-sm font-semibold leading-6 text-gray-900"

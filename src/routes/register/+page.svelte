@@ -24,7 +24,7 @@
 							type="email"
 							autocomplete="email"
 							required
-							class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
+							class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-rose-600 sm:text-sm sm:leading-6"
 						/>
 					</div>
 				</div>
@@ -40,7 +40,7 @@
 							type="password"
 							autocomplete="current-password"
 							required
-							class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
+							class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-rose-600 sm:text-sm sm:leading-6"
 						/>
 					</div>
 				</div>
@@ -51,7 +51,7 @@
 							id="remember-me"
 							name="remember-me"
 							type="checkbox"
-							class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-600"
+							class="h-4 w-4 rounded border-gray-300 text-rose-600 focus:ring-rose-600"
 						/>
 						<label for="remember-me" class="ml-3 block text-sm leading-6 text-gray-900"
 							>Remember me</label
@@ -59,9 +59,8 @@
 					</div>
 
 					<div class="text-sm leading-6">
-						<a
-							href="/forgotten-password"
-							class="font-semibold text-indigo-600 hover:text-indigo-600">Forgot password?</a
+						<a href="/forgotten-password" class="font-semibold text-rose-600 hover:text-rose-600"
+							>Forgot password?</a
 						>
 					</div>
 				</div>
@@ -69,7 +68,7 @@
 				<div>
 					<button
 						type="submit"
-						class="flex w-full justify-center rounded-md bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+						class="flex w-full justify-center rounded-md bg-rose-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-rose-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rose-600"
 						>Register</button
 					>
 				</div>
@@ -282,7 +281,7 @@
 
 		<p class="mt-10 text-center text-sm text-gray-500">
 			Not a member?
-			<a href="/waitlist" class="font-semibold leading-6 text-indigo-600 hover:text-indigo-600"
+			<a href="/waitlist" class="font-semibold leading-6 text-rose-600 hover:text-rose-600"
 				>Sign up!</a
 			>
 		</p>

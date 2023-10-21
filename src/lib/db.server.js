@@ -1,4 +1,4 @@
-import { Pool } from 'pg';
+import Pool from 'pg';
 
 export default function connectToDatabase() {
 	console.log('Connecting to database...');
