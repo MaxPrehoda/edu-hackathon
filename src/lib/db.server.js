@@ -2,7 +2,6 @@ import * as Pool from 'pg';
 
 export default function connectToDatabase() {
 	console.log('Connecting to database...');
-
 	const config = {
 		user: process.env.PGUSER,
 		host: process.env.PGHOST,
