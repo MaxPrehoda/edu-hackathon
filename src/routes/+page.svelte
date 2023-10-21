@@ -2,6 +2,7 @@
 	import welcome from '$lib/images/svelte-welcome.webp';
 	import welcome_fallback from '$lib/images/svelte-welcome.png';
 	import tyne from '$lib/images/tyne.png';
+	import TypedJs from '@loscrackitos/svelte-typed-js';
 </script>
 
 <svelte:head>
@@ -68,7 +69,9 @@
 				</div>
 			</div>
 			<h1 class="mt-10 max-w-lg text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-				Flashcards made simple.
+				<TypedJs strings="['John', 'Martin']">
+					<h1>👋 <span class="typing" /></h1>
+				</TypedJs>
 			</h1>
 			<p class="mt-6 text-lg leading-8 text-gray-600">
 				Master topics faster than ever with our intuitive study tools. Dive into a world where
@@ -77,12 +80,12 @@
 			</p>
 			<div class="mt-10 flex items-center gap-x-6">
 				<a
-					href="/login"
+					href="/register"
 					class="rounded-md bg-rose-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-rose-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rose-600"
 					>Get started</a
 				>
 				<a href="/login" class="text-sm font-semibold leading-6 text-gray-900"
-					>Learn more <span aria-hidden="true">→</span></a
+					>Sign in <span aria-hidden="true">→</span></a
 				>
 			</div>
 		</div>
