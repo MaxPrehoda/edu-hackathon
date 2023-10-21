@@ -35,5 +35,9 @@
 		"vitest": "^0.25.3",
 		"web-vitals": "^3.3.1"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"axios": "^1.5.1",
+		"pg": "^8.11.3"
+	}
 }
