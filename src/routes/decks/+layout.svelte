@@ -59,7 +59,6 @@
 							<div>Decks</div>
 							<div>Browse</div>
 							<div>Stats</div>
-							<div>Leaderboard?</div>
 						</div>
 					</div>
 				</div>

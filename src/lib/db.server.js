@@ -3,11 +3,11 @@ import * as Pool from 'pg';
 export default function connectToDatabase() {
 	console.log('Connecting to database...');
 	const config = {
-		user: process.env.PGUSER,
-		host: process.env.PGHOST,
-		database: process.env.PGDATABASE,
-		password: process.env.PGPASSWORD,
-		port: Number(process.env.PGPORT)
+		user: 'postgres',
+		host: 'containers-us-west-146.railway.app',
+		database: 'railway',
+		password: 'zb4nL95ilTVTRXjNwYc3',
+		port: 7199
 	};
 
 	console.log(config);

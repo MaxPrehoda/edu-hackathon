@@ -1,3 +1,7 @@
+<script>
+	export let form;
+</script>
+
 <div class="flex min-h-full flex-col justify-center py-12 sm:px-6 lg:px-8">
 	<div class="sm:mx-auto sm:w-full sm:max-w-md">
 		<img
@@ -12,7 +16,7 @@
 
 	<div class="mt-10 sm:mx-auto sm:w-full sm:max-w-[480px]">
 		<div class="shadow bg-white px-6 py-12 sm:rounded-lg sm:px-12">
-			<form class="space-y-6" action="?/login" method="POST">
+			<form class="space-y-6" action="?/register" method="POST">
 				<div>
 					<label for="email" class="block text-sm font-medium leading-6 text-gray-900"
 						>Email address</label
